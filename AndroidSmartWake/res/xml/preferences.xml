@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:summaryOn="Alarm is set." android:summaryOff="Alarm is disabled." android:title="Alarm Enabled" android:enabled="true" android:key="alarm_enabled"/>
+    <com.stephenklancher.zeosleepmonitor.TimePreference android:key="alarm_time" android:title="Alarm Time" android:enabled="true"/>
+    <EditTextPreference android:key="wake_after_hours" android:title="Sleep at Least X Hours"/>
+    
+
+</PreferenceScreen>

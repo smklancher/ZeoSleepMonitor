@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Zeo Sleep Monitor</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Zeo Sleep Monitor</string>
+    <string name="local_service_stopped">Sleep Monitor service stopped.</string>
+    <string name="local_service_connected">Connected to Sleep Monitor Service.</string>
+    <string name="local_service_disconnected">Disconnected from Sleep Monitor Service.</string>
+    <string name="main_text">status</string>
+    <string name="null_cursor">Cursor was null; something is wrong; perhaps Zeo not installed.</string>
+    <string name="cancel">Cancel</string>
+    <string name="set">Set</string>
+    <string name="crash_toast_text">Sleep Monitor has crashed, but a crash report has been sent.</string>
+
+</resources>
